@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-refunds-nuxt",
+  "capabilityKey": "planned:ecommerce:refunds",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-ecommerce-refunds-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/ecommerce/nextjs/refunds.md",
+  "presentationPlan": "projects/ecommerce/nuxt/refunds.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
